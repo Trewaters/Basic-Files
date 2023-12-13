@@ -1,0 +1,15 @@
+Coding Idea - Projects
+
+- 1 to 3 Month from start to finish.
+- Tasks
+-- Backup (coding & software)
+-- Coding Application
+-- Debugging
+-- Documentation
+-- Installing
+-- Meeting
+-- Planning
+-- Website
+-- Marketing & Promoting
+-- Plugin Development
+-- Invoice
