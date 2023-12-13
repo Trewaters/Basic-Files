@@ -27,4 +27,5 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 
 ** Reference this [link](https://opensource.guide/starting-a-project/#writing-your-contributing-guidelines) for guidelines.
+
 ** GitHub documentation for [setting up projects](https://help.github.com/en/articles/setting-up-your-project-for-healthy-contributions)
