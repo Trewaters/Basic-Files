@@ -12,6 +12,16 @@ The repository is a great place to copy and paste what is helpful and learn more
 
 These files are a place to start. Not every project needs these files. I find myself wanting to have some part of each of these files once I have finished my first build of THE APP. The one APP I created that will rule the world and raise me up out of poverty!
 
+1. Preferred software [License](/TEMPLATE-1-LICENSE)
+2. Basic [ReadMe](/TEMPLATE-2-README.md) Outline.
+3. "How-To" [Contribute](/TEMPLATE-3-CONTRIBUTING.md) to the code.
+4. [Code of Conduct](/TEMPLATE-4-CODE_OF_CONDUCT.md), good for in-person meetups.
+5. Vulnerabilities? "How-To" responsibly report [security](/TEMPLATE-5-SECURITY.md) issues and flaws.
+6. [Developer Journal](/TEMPLATE-Dev%20Journal.md), project notes.
+7. [editorconfig](/TEMPLATE-editorconfig)
+8. [exclude or gitignore](/TEMPLATE-exclude%20or%20gitignore)
+9. [Software Design Document](/TEMPLATE-Software%20Design%20Document.md)
+
 ### Why is this app useful?
 
 You should think about these files because... 
@@ -32,7 +42,8 @@ You should think about these files because...
 
 ### Built With
 
-Markdown and Github
+- Markdown
+- Github
 
 ## CONTRIBUTIONS
 
